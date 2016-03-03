@@ -1,0 +1,27 @@
+{
+  "name": "mrtjs",
+  "version": "1.0.0",
+  "description": "MicroServices RT JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PacRT/mRT.git"
+  },
+  "keywords": [
+    "mrt",
+    "mrtjs"
+  ],
+  "author": "PackRT.IO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PacRT/mRT/issues"
+  },
+  "homepage": "https://github.com/PacRT/mRT#readme",
+  "dependencies": {
+    "nanomsg": "^3.1.0",
+    "seneca": "^1.3.0"
+  }
+}
